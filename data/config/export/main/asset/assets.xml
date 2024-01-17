@@ -853,7 +853,7 @@
 				<Standard>
 					<GUID>316875</GUID>
       				<Text>Superior Spices Seeds</Text>
-					<IconFilename>data/ui/2kimages/main/3dicons/goods_africa/icon_spices.png</IconFilename>
+					<IconFilename>data/graphics/icons/icon_fertility_spices.png</IconFilename>
 					<InfoDescription>3168750</InfoDescription>
 				</Standard>
 				<Text>
@@ -911,7 +911,7 @@
 				<Standard>
 					<GUID>316876</GUID>
       				<Text>Superior Herbs Seeds</Text>
-					<IconFilename>data/ui/2kimages/main/3dicons/production_goods/icon_herbs_with_flower.png</IconFilename>
+					<IconFilename>data/graphics/icons/icon_fertility_herbs.png</IconFilename>
 					<InfoDescription>3168760</InfoDescription>
 				</Standard>
 				<Text>
@@ -972,7 +972,7 @@
 				<Standard>
 					<GUID>316877</GUID>
       				<Text>Superior Orchid Seeds</Text>
-					<IconFilename>data/ui/2kimages/main/3dicons/production_goods/icon_orchid.png</IconFilename>
+					<IconFilename>data/graphics/icons/icon_fertility_orchids.png</IconFilename>
 					<InfoDescription>316877</InfoDescription>
 				</Standard>
 				<Text>
