@@ -52,7 +52,7 @@
     </Text>
     <Text>
       <GUID>3168660</GUID>
-      <Text>Radiant and exceptionally rare, these saplings thrive in the harshest environments, yielding remarkabye sweet canes and in vast quantities!</Text>
+      <Text>Radiant and exceptionally rare, these saplings thrive in the harshest environments, yielding remarkably sweet canes and in vast quantities!</Text>
     </Text>
     <!-- Legendary Tobacco Fertility Item : GUID 316867 -->
     <Text>
@@ -125,6 +125,33 @@
     <Text>
       <GUID>3168740</GUID>
       <Text>Radiant and exceptionally rare, these spawns thrive in the harshest environments, yielding sublime pearls of all hues and in abundant quantities!</Text>
+    </Text>
+    <!-- Legendary Spices Fertility Item : GUID 316875 -->
+    <Text>
+      <GUID>316875</GUID>
+      <Text>Superior Spices Seeds</Text>
+    </Text>    
+    <Text>
+      <GUID>3168750</GUID>
+      <Text>Radiant and exceptionally rare, these seeds thrive in the harshest environments, yielding sublime spices of all colors and in abundant quantities!</Text>
+    </Text>
+    <!-- Legendary Herbs Fertility Item : GUID 316876 -->
+    <Text>
+      <GUID>316876</GUID>
+      <Text>Superior Herbs Seedlings</Text>
+    </Text>    
+    <Text>
+      <GUID>3168760</GUID>
+      <Text>Radiant and exceptionally rare, these seedlings thrive in the harshest environments, yielding sublime herbs of wonderful tastes and in abundant quantities!</Text>
+    </Text>
+    <!-- Legendary Orchid Fertility Item : GUID 316877 -->
+    <Text>
+      <GUID>316877</GUID>
+      <Text>Superior Orchid Seeds</Text>
+    </Text>    
+    <Text>
+      <GUID>3168770</GUID>
+      <Text>Radiant and exceptionally rare, these seeds thrive in the harshest environments, yielding sublime herbs of wonderful tastes and in abundant quantities!</Text>
     </Text>
   </ModOp>
 </ModOps>
